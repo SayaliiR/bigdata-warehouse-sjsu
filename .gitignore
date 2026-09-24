@@ -1,0 +1,6 @@
+.DS_Store
+.env
+*.pem
+*.p8
+logs/
+__pycache__/
