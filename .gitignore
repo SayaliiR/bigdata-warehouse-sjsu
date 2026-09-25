@@ -4,3 +4,4 @@
 *.p8
 logs/
 __pycache__/
+keys/
